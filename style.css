@@ -1,0 +1,42 @@
+*
+{
+  font-family: "Noto Sans KR", sans-serif;
+  background-color: #fa7268;
+
+}
+
+.menu {
+  color: white;
+  font-weight: 500;
+}
+
+.home
+{
+  color: white;
+
+  padding: 5%;
+  text-align: center;
+  font-weight: 300;
+}
+
+
+.about
+{
+  color: white;
+  padding: 5%;
+  text-align: center;
+
+
+}
+
+
+.workspace
+{
+  color: white;
+  padding: 5%;
+  text-align: center;
+}
+
+.menu{
+  text-align: center;
+}
